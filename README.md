@@ -10,3 +10,8 @@ To do this simply include the module in its AngularJs application and set polici
 
 * "data-ng-mask" defines the shape of the mask should be compulsory
 * "data-on" defines which event the formatting should happen, and can be in the keyup, click etc ...
+
+## Bower install de dependency
+```
+$ bower install ng-mask --save
+```
